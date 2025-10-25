@@ -2,7 +2,7 @@
 name = "stock-market-prediction"
 version = "0.1.0"
 description = "Stock Market Prediction on High-Frequency Data Using soft computing based AI models"
-authors = ["dksifoua <dimitri.sifoua@gmail.com>"]
+authors = ["grvsingh <grvsingh15092003@gmail.com>"]
 license = "Apache 2.0"
 readme = "README.md"
 package-mode = false
